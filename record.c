@@ -13,3 +13,10 @@
 #define MAX_STUDENT_NAME 50
 #define MAX_STUDENT_ADDRESS 300
 #define FILE_HEADER_SIZE  sizeof(sFileHeader)
+//structure to store date
+typedef struct
+{
+    int yyyy;
+    int mm;
+    int dd;
+} Date;
