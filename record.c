@@ -20,3 +20,7 @@ typedef struct
     int mm;
     int dd;
 } Date;
+{
+    char username[MAX_SIZE_USER_NAME];
+    char password[MAX_SIZE_PASSWORD];
+} sFileHeader;
