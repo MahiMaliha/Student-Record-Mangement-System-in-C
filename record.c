@@ -27,7 +27,7 @@ typedef struct
 //Elements of structure
 typedef struct// to call in program
 {
-    unsigned int student_id; // declare the integer data type
+    unsigned int student_id; 
     char fatherName[MAX_FATHER_NAME];// declare the charecter data type
     char studentName[MAX_STUDENT_NAME];// declare the character data type
     char studentAddr[MAX_STUDENT_ADDRESS];// declare the character data type
