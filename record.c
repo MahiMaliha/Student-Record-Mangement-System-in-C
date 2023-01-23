@@ -30,7 +30,7 @@ typedef struct// to call in program
     unsigned int student_id; 
     char fatherName[MAX_FATHER_NAME];
     char studentName[MAX_STUDENT_NAME];
-    char studentAddr[MAX_STUDENT_ADDRESS];// declare the character data type
+    char studentAddr[MAX_STUDENT_ADDRESS];
     Date studentJoiningDate;// declare the integer data type
 } s_StudentInfo;
 //Align the message
