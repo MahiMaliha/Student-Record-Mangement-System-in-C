@@ -409,9 +409,9 @@ void menu()
             break;
         default:
             printf("\n\n\n\t\t\tINVALID INPUT!!! Try again...");
-        }                                            //Switch Ended
+        }                                            
     }
-    while(choice!=0);                                        //Loop Ended
+    while(choice!=0);                                        
 }
 //login password
 void login()
